@@ -2,6 +2,6 @@
 console.log("=== Aplikasi Utama Mulai ===");
 
 // [BARIS TARGET KONFLIK] Siswa A & Siswa B akan mengubah area ini secara bersamaan
-console.log("Status: Halo! Selamat datang di aplikasi kami 👋");
+console.log("Status: © 2026 Tim Kolaborasi. Hak cipta dilindungi.");
 
 console.log("=== Aplikasi Selesai ===");
